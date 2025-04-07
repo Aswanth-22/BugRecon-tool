@@ -1,0 +1,12 @@
+✅ Tools & Libraries Used:
+
+    requests – for sending HTTP requests
+
+    BeautifulSoup – for HTML parsing
+
+    re – regex for OTP patterns
+
+    colorama – for color CLI output
+
+    argparse – to take CLI arguments
+
